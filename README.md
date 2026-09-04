@@ -1,157 +1,217 @@
-<h1 align="center">👋 Hi, I'm Tiyasa Banerjee</h1>
+<div align="center">
 
-<h3 align="center">
-🤖 AI/ML Developer • 🌐 Web Developer • 💡 Problem Solver
-</h3>
+# 👋 Hi, I'm **Tiyasa Banerjee**
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tiyasabanerjee&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+### 🤖 AI/ML • 🌐 Web Development • 🚀 Innovation
+
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Exploring+Artificial+Intelligence;Building+Machine+Learning+Projects;Creating+Web+Applications;Turning+Ideas+into+Working+Solutions;Learning+%7C+Building+%7C+Innovating" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+%7C+Machine+Learning;Building+Intelligent+Applications;Exploring+Web+Development;Hackathon+Builder;Learning+%7C+Building+%7C+Innovating" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=tiyasabanerjee&label=PROFILE+VIEWS&style=for-the-badge&color=blueviolet" />
+
+<br>
 
 ---
 
-## 🧠 About Me
+### `> whoami`
 
-🎓 Computer Science Engineering student passionate about technology and innovation.
+💻 **Computer Science Engineering Student**  
+🤖 Exploring **Artificial Intelligence & Machine Learning**  
+🌐 Building with **Web Technologies**  
+🏆 Exploring **Hackathons & Innovation**  
+🔬 Interested in **research-oriented AI/ML projects**
 
-🤖 Exploring **Artificial Intelligence, Machine Learning & Data Science**.
+<br>
 
-🌐 Building and experimenting with **Web Development & Full-Stack Applications**.
-
-🏆 Interested in **Hackathons, real-world problem solving and innovative projects**.
-
-🔬 Exploring **research-oriented AI/ML ideas** and practical applications of machine learning.
-
-💡 My goal is to transform interesting ideas into useful, working technology.
+> **I like taking real-world problems and turning them into things that can actually be built.**
 
 ---
 
-# 💼 What I'm Working On
+## 🧩 ABOUT THE BUILDER
 
-<table>
+<table align="center">
 <tr>
-<td width="50%">
+<td align="center" width="180">
 
-### 🔭 Currently Working On
+### 🎓
+**Student**
 
-**Personal Spending Anomaly Detector**
-
-A machine-learning based system that learns normal spending behaviour and identifies unusual transactions.
-
-</td>
-
-<td width="50%">
-
-### 🌱 Currently Learning
-
-**Machine Learning • Data Science • React • Backend Development**
-
-Building stronger foundations while creating practical projects.
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-### 👯 Looking to Collaborate On
-
-**AI/ML & Web Development Projects**
-
-Especially projects solving meaningful real-world problems.
+Computer Science  
+Engineering
 
 </td>
 
-<td>
+<td align="center" width="180">
 
-### 💬 Ask Me About
+### 🤖
+**AI/ML**
 
-**Python • AI/ML • Web Development • Hackathons**
+Machine Learning  
+Data Science
+
+</td>
+
+<td align="center" width="180">
+
+### 🌐
+**Web**
+
+Frontend  
+Backend
+
+</td>
+
+<td align="center" width="180">
+
+### 🏆
+**Builder**
+
+Hackathons  
+Projects
 
 </td>
 </tr>
 </table>
 
----
-
-# 🛠️ Tech Stack
-
-### 👩‍💻 Programming
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript" />
-</p>
-
-### 🤖 AI / Machine Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
-</p>
-
-<p>
-<b>Libraries:</b> NumPy • Pandas • Scikit-learn • Matplotlib
-</p>
-
-### 🌐 Web Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs" />
-</p>
-
-### 🗄️ Database & Development Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
-</p>
+<br>
 
 ---
 
-# 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
+## 🔭 CURRENTLY BUILDING
 
 ### 💳 Personal Spending Anomaly Detector
 
-Machine learning system designed to identify unusual spending behaviour by analysing transaction patterns.
+<img src="https://img.shields.io/badge/STATUS-IN%20PROGRESS-yellow?style=for-the-badge" />
 
-**Focus:**
+A machine-learning project that learns normal spending behaviour
+and identifies unusual transactions.
 
-`Machine Learning`  
-`Anomaly Detection`  
-`Data Analysis`
+<br>
 
-</td>
+`Machine Learning` `Anomaly Detection` `Data Analysis` `Python`
 
-<td width="50%">
-
-### 🏆 Hackathon Projects
-
-Developing innovative solutions for real-world problems by combining:
-
-`AI/ML` + `Web` + `Data` + `Innovation`
-
-</td>
-</tr>
-</table>
-
-> 🚧 More projects are currently being built and will be added here.
+<br>
 
 ---
 
-# 📚 Currently Exploring
+## 🌱 CURRENTLY LEARNING
+
+<table align="center">
+<tr>
+<td align="center">🧠<br><b>Machine Learning</b></td>
+<td align="center">📊<br><b>Data Science</b></td>
+<td align="center">🌐<br><b>Web Development</b></td>
+<td align="center">⚙️<br><b>Backend</b></td>
+</tr>
+</table>
+
+<br>
+
+---
+
+# 🛠️ MY DIGITAL TOOLBOX
+
+### 👩‍💻 Languages
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript" />
+
+</p>
+
+### 🧠 AI / Data
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+
+</p>
+
+### 🌐 Web & Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,mysql,git,github,vscode" />
+
+</p>
+
+<br>
+
+---
+
+# 🚀 PROJECT LAB
+
+<table align="center">
+<tr>
+
+<td width="45%" align="center">
+
+## 💳
+
+### Spending Anomaly Detector
+
+Machine learning based detection of unusual spending patterns.
+
+<br>
+
+**AI/ML • Anomaly Detection**
+
+</td>
+
+<td width="45%" align="center">
+
+## 🏆
+
+### Hackathon Builds
+
+Exploring innovative solutions to real-world problems using technology.
+
+<br>
+
+**AI/ML • Web • Innovation**
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+> 🚧 **More projects are currently being built.**
+
+<br>
+
+---
+
+# ⚡ WHAT I LIKE BUILDING
 
 ```text
-🤖 Artificial Intelligence
-🧠 Machine Learning
-📊 Data Science
-🌐 Full-Stack Development
-💻 Data Structures & Algorithms
-🔧 Git & GitHub
-🔬 AI/ML Research
-🏆 Hackathons & Innovation
+                    REAL-WORLD PROBLEM
+                            │
+                            ▼
+                     ┌─────────────┐
+                     │   IDEATION  │
+                     └──────┬──────┘
+                            │
+                            ▼
+                    DATA + TECHNOLOGY
+                            │
+                            ▼
+                  ┌──────────────────┐
+                  │    AI / ML       │
+                  │       +          │
+                  │   WEB DEVELOPMENT│
+                  └────────┬─────────┘
+                           │
+                           ▼
+                    WORKING PROTOTYPE
+                           │
+                           ▼
+                         🚀
