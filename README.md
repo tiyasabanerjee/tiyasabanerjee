@@ -1,284 +1,221 @@
 <div align="center">
 
-# 👋 Hi, I'm **Tiyasa Banerjee**
+# 👋 Hi, I'm Tiyasa Banerjee
 
 ### 🤖 AI/ML • 🌐 Web Development • 🚀 Innovation
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Exploring+Artificial+Intelligence;Building+Machine+Learning+Projects;Creating+Web+Applications;Turning+Ideas+into+Working+Solutions;Learning+%7C+Building+%7C+Innovating" />
-</p>
-
 <img src="https://komarev.com/ghpvc/?username=tiyasabanerjee&label=PROFILE+VIEWS&style=for-the-badge&color=blueviolet" />
 
-<br>
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Exploring+Artificial+Intelligence;Building+Machine+Learning+Projects;Creating+Web+Applications;Turning+Ideas+into+Working+Solutions;Learning+%7C+Building+%7C+Innovating" />
+
+</div>
 
 ---
 
-### `> whoami`
+<div align="center">
 
-💻 **Computer Science Engineering Student**  
-🤖 Exploring **Artificial Intelligence & Machine Learning**  
-🌐 Building with **Web Technologies**  
-🏆 Exploring **Hackathons & Innovation**  
-🔬 Interested in **research-oriented AI/ML projects**
+## 🧠 `> whoami`
 
-<br>
+🎓 **Computer Science Engineering Student**
 
-> **I like taking real-world problems and turning them into things that can actually be built.**
+🤖 Exploring **Artificial Intelligence & Machine Learning**
 
----
+🌐 Building with **Web Technologies**
 
-## 🧩 ABOUT THE BUILDER
+🏆 Exploring **Hackathons & Innovation**
 
-<table align="center">
-<tr>
-<td align="center" width="180">
-
-### 🎓
-**Student**
-
-Computer Science  
-Engineering
-
-</td>
-
-<td align="center" width="180">
-
-### 🤖
-**AI/ML**
-
-Machine Learning  
-Data Science
-
-</td>
-
-<td align="center" width="180">
-
-### 🌐
-**Web**
-
-Frontend  
-Backend
-
-</td>
-
-<td align="center" width="180">
-
-### 🏆
-**Builder**
-
-Hackathons  
-Projects
-
-</td>
-</tr>
-</table>
+🔬 Interested in **Research-Oriented AI/ML**
 
 <br>
 
+> *I like taking real-world problems and turning them into things that can actually be built.*
+
+</div>
+
 ---
 
-## 🔭 CURRENTLY BUILDING
+<div align="center">
 
-### 💳 Personal Spending Anomaly Detector
+# 💼 WHAT I'M WORKING ON
 
-<img src="https://img.shields.io/badge/STATUS-IN%20PROGRESS-yellow?style=for-the-badge" />
+### 🔭 Currently Building
 
-A machine-learning project that learns normal spending behaviour
+**💳 Personal Spending Anomaly Detector**
+
+A machine-learning system that learns normal spending behaviour
 and identifies unusual transactions.
 
 <br>
 
-`Machine Learning` `Anomaly Detection` `Data Analysis` `Python`
+### 🌱 Currently Learning
+
+**Machine Learning • Data Science • React • Backend Development**
 
 <br>
 
----
+### 👯 Looking to Collaborate On
 
-## 🌱 CURRENTLY LEARNING
-
-<table align="center">
-<tr>
-<td align="center">🧠<br><b>Machine Learning</b></td>
-<td align="center">📊<br><b>Data Science</b></td>
-<td align="center">🌐<br><b>Web Development</b></td>
-<td align="center">⚙️<br><b>Backend</b></td>
-</tr>
-</table>
+**AI/ML & Web Development Projects**
 
 <br>
 
+### 💬 Ask Me About
+
+**Python • AI/ML • Web Development • Hackathons**
+
+</div>
+
 ---
+
+<div align="center">
 
 # 🛠️ MY DIGITAL TOOLBOX
 
-### 👩‍💻 Languages
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript" />
-
-</p>
-
-### 🧠 AI / Data
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+<i>Technologies I'm currently exploring and working with</i>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+### 👩‍💻 Languages
 
-</p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+<br><br>
+
+### 🧠 AI / Data
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+
+<br><br>
 
 ### 🌐 Web & Tools
 
-<p align="center">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,mysql,git,github,vscode" />
-
-</p>
-
-<br>
+</div>
 
 ---
 
-<!-- PROJECT LAB -->
-<h2 align="center">🚀 PROJECT LAB</h2>
+<div align="center">
 
-<p align="center">
-  <i>Ideas I'm turning into intelligent, useful & real-world solutions.</i>
-</p>
+# 🚀 PROJECT LAB
+
+<i>Ideas I'm turning into intelligent and practical solutions.</i>
+
+<br><br>
+
+### 💳 Personal Spending Anomaly Detector
+
+**Learning normal spending patterns → Detecting unusual transactions**
 
 <br>
 
-<table align="center">
-<tr>
-
-<td width="45%" align="center">
-
-<h2>💳</h2>
-
-<h3>Personal Spending<br>Anomaly Detector</h3>
-
-<p>
-An intelligent system that learns spending patterns
-and detects unusual financial behaviour.
-</p>
-
-<p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/ML-FF6F00?style=flat-square"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square"/>
 <img src="https://img.shields.io/badge/Anomaly%20Detection-6A5ACD?style=flat-square"/>
-</p>
 
-</td>
+<br>
 
-<td width="45%" align="center">
+`🔨 Currently Building`
 
-<h2>🏆</h2>
+<br><br>
 
-<h3>Hackathon<br>Innovation Lab</h3>
+---
 
-<p>
-Exploring technology-driven solutions to
-meaningful real-world problems.
-</p>
+### 🏆 Hackathon Innovation Lab
 
-<p>
+**Real-world problems → Ideas → Prototypes → Impact**
+
+<br>
+
 <img src="https://img.shields.io/badge/AI%2FML-8A2BE2?style=flat-square"/>
 <img src="https://img.shields.io/badge/Web-1572B6?style=flat-square"/>
 <img src="https://img.shields.io/badge/Innovation-FFB000?style=flat-square"/>
-</p>
-
-</td>
-
-</tr>
-</table>
 
 <br>
 
-<p align="center">
-  <b>🔨 Building today • 🚀 Improving tomorrow</b>
-</p>
+`💡 Ideas in Progress`
 
-<p align="center">
-  <i>More projects are currently in the lab...</i> 🧪
-</p>    
-<!-- WHAT I LIKE BUILDING -->
-<h2 align="center">🧩 WHAT I LIKE BUILDING</h2>
+<br><br>
 
-<p align="center">
-  <i>From a simple idea to something that actually works.</i>
-</p>
+> **Building today • Improving tomorrow**
 
-<br>
+<i>More projects are currently in the lab... 🧪</i>
 
-<table align="center">
-<tr>
+</div>
 
-<td align="center" width="180">
-<h2>💡</h2>
-<h3>IDEATE</h3>
-<p>Find interesting<br>real-world problems.</p>
-</td>
+---
 
-<td align="center">
-<h2>→</h2>
-</td>
+<div align="center">
 
-<td align="center" width="180">
-<h2>📊</h2>
-<h3>UNDERSTAND</h3>
-<p>Explore data,<br>patterns & possibilities.</p>
-</td>
+# 🧩 WHAT I LIKE BUILDING
 
-<td align="center">
-<h2>→</h2>
-</td>
+<i>From a simple idea to something that actually works.</i>
 
-<td align="center" width="180">
-<h2>🧠</h2>
-<h3>BUILD</h3>
-<p>Apply AI/ML &<br>technology.</p>
-</td>
+<br><br>
 
-<td align="center">
-<h2>→</h2>
-</td>
+### 💡 IDEATE
 
-<td align="center" width="180">
-<h2>🚀</h2>
-<h3>CREATE</h3>
-<p>Turn ideas into<br>working solutions.</p>
-</td>
+Finding interesting  
+**real-world problems**
 
-</tr>
-</table>
+⬇️
 
-<br>
+### 📊 UNDERSTAND
 
-<p align="center">
+Exploring **data, patterns  
+& possibilities**
 
-`REAL-WORLD PROBLEM`
-&nbsp; → &nbsp;
-`DATA`
-&nbsp; → &nbsp;
-`AI / ML`
-&nbsp; → &nbsp;
-`WEB`
-&nbsp; → &nbsp;
-`IMPACT`
+⬇️
 
-</p>
+### 🧠 BUILD
 
-<br>
+Applying **AI/ML  
+& technology**
 
-<blockquote align="center">
+⬇️
 
-<b>“I don't just want to learn technology — I want to build with it.”</b>
+### 🚀 CREATE
 
-</blockquote>
+Turning ideas into  
+**working solutions**
+
+<br><br>
+
+```text
+┌─────────────────────┐
+│  REAL-WORLD PROBLEM │
+└──────────┬──────────┘
+           ↓
+┌─────────────────────┐
+│        DATA         │
+└──────────┬──────────┘
+           ↓
+┌─────────────────────┐
+│       AI / ML       │
+└──────────┬──────────┘
+           ↓
+┌─────────────────────┐
+│        WEB          │
+└──────────┬──────────┘
+           ↓
+┌─────────────────────┐
+│       IMPACT        │
+└─────────────────────┘
