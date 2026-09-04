@@ -1,34 +1,157 @@
-<h1 align="center">Hi 👋, I'm Tiyasa Banerjee</h1>
-<h3 align="center">🤖 Exploring AI/ML | 💻 Building for the Web | 🚀 Learning by Creating</h3>
+<h1 align="center">👋 Hi, I'm Tiyasa Banerjee</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tiyasabanerjee&label=Profile%20views&color=0e75b6&style=flat" alt="tiyasabanerjee" /> </p>
+<h3 align="center">
+🤖 AI/ML Developer • 🌐 Web Developer • 💡 Problem Solver
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tiyasabanerjee" alt="tiyasabanerjee" /></a> </p>
-
-- 🔭 I’m currently working on **Personal Spending Anomaly Detector**
-
-- 🌱 I’m currently learning **Machine Learning, Data Science, React & Backend Development**
-
-- 👯 I’m looking to collaborate on **AI/ML & Web Development Projects**
-
-- 🤝 I’m looking for help with **Machine Learning & Full-Stack Development**
-
-- 💬 Ask me about **Python, AI/ML, Web Development**
-
-- 📫 How to reach me **tiyasabanerjee931@gmail.com**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/https://devfolio.co/@tiyasabanerjee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://devfolio.co/@tiyasabanerjee" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/in/tiyasa-banerjee-605b1b338" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/tiyasa-banerjee-605b1b338" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tiyasabanerjee&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nativescript.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/nativescript.svg" alt="nativescript" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+%7C+Machine+Learning;Building+Intelligent+Applications;Exploring+Web+Development;Hackathon+Builder;Learning+%7C+Building+%7C+Innovating" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tiyasabanerjee&" alt="tiyasabanerjee" /></p>
+---
 
+## 🧠 About Me
+
+🎓 Computer Science Engineering student passionate about technology and innovation.
+
+🤖 Exploring **Artificial Intelligence, Machine Learning & Data Science**.
+
+🌐 Building and experimenting with **Web Development & Full-Stack Applications**.
+
+🏆 Interested in **Hackathons, real-world problem solving and innovative projects**.
+
+🔬 Exploring **research-oriented AI/ML ideas** and practical applications of machine learning.
+
+💡 My goal is to transform interesting ideas into useful, working technology.
+
+---
+
+# 💼 What I'm Working On
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔭 Currently Working On
+
+**Personal Spending Anomaly Detector**
+
+A machine-learning based system that learns normal spending behaviour and identifies unusual transactions.
+
+</td>
+
+<td width="50%">
+
+### 🌱 Currently Learning
+
+**Machine Learning • Data Science • React • Backend Development**
+
+Building stronger foundations while creating practical projects.
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 👯 Looking to Collaborate On
+
+**AI/ML & Web Development Projects**
+
+Especially projects solving meaningful real-world problems.
+
+</td>
+
+<td>
+
+### 💬 Ask Me About
+
+**Python • AI/ML • Web Development • Hackathons**
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🛠️ Tech Stack
+
+### 👩‍💻 Programming
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript" />
+</p>
+
+### 🤖 AI / Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
+</p>
+
+<p>
+<b>Libraries:</b> NumPy • Pandas • Scikit-learn • Matplotlib
+</p>
+
+### 🌐 Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs" />
+</p>
+
+### 🗄️ Database & Development Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 💳 Personal Spending Anomaly Detector
+
+Machine learning system designed to identify unusual spending behaviour by analysing transaction patterns.
+
+**Focus:**
+
+`Machine Learning`  
+`Anomaly Detection`  
+`Data Analysis`
+
+</td>
+
+<td width="50%">
+
+### 🏆 Hackathon Projects
+
+Developing innovative solutions for real-world problems by combining:
+
+`AI/ML` + `Web` + `Data` + `Innovation`
+
+</td>
+</tr>
+</table>
+
+> 🚧 More projects are currently being built and will be added here.
+
+---
+
+# 📚 Currently Exploring
+
+```text
+🤖 Artificial Intelligence
+🧠 Machine Learning
+📊 Data Science
+🌐 Full-Stack Development
+💻 Data Structures & Algorithms
+🔧 Git & GitHub
+🔬 AI/ML Research
+🏆 Hackathons & Innovation
