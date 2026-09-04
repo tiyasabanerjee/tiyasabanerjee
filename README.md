@@ -30,27 +30,49 @@
 
 ## 🧩 ABOUT THE BUILDER
 
-<p align="center">
+<table align="center">
+<tr>
+<td align="center" width="180">
 
-🎓 **Student**  
-Computer Science Engineering
+### 🎓
+**Student**
 
-&nbsp;&nbsp;•&nbsp;&nbsp;
+Computer Science  
+Engineering
 
-🤖 **AI/ML**  
-Machine Learning • Data Science
+</td>
 
-&nbsp;&nbsp;•&nbsp;&nbsp;
+<td align="center" width="180">
 
-🌐 **Web**  
-Frontend • Backend
+### 🤖
+**AI/ML**
 
-&nbsp;&nbsp;•&nbsp;&nbsp;
+Machine Learning  
+Data Science
 
-🏆 **Builder**  
-Hackathons • Projects
+</td>
 
-</p>
+<td align="center" width="180">
+
+### 🌐
+**Web**
+
+Frontend  
+Backend
+
+</td>
+
+<td align="center" width="180">
+
+### 🏆
+**Builder**
+
+Hackathons  
+Projects
+
+</td>
+</tr>
+</table>
 
 <br>
 
@@ -62,14 +84,12 @@ Hackathons • Projects
 
 <img src="https://img.shields.io/badge/STATUS-IN%20PROGRESS-yellow?style=for-the-badge" />
 
-<br><br>
-
 A machine-learning project that learns normal spending behaviour
 and identifies unusual transactions.
 
-<br><br>
+<br>
 
-`Machine Learning` &nbsp; `Anomaly Detection` &nbsp; `Data Analysis` &nbsp; `Python`
+`Machine Learning` `Anomaly Detection` `Data Analysis` `Python`
 
 <br>
 
@@ -77,23 +97,14 @@ and identifies unusual transactions.
 
 ## 🌱 CURRENTLY LEARNING
 
-<p align="center">
-
-🧠 **Machine Learning**
-
-&nbsp;&nbsp;•&nbsp;&nbsp;
-
-📊 **Data Science**
-
-&nbsp;&nbsp;•&nbsp;&nbsp;
-
-🌐 **Web Development**
-
-&nbsp;&nbsp;•&nbsp;&nbsp;
-
-⚙️ **Backend**
-
-</p>
+<table align="center">
+<tr>
+<td align="center">🧠<br><b>Machine Learning</b></td>
+<td align="center">📊<br><b>Data Science</b></td>
+<td align="center">🌐<br><b>Web Development</b></td>
+<td align="center">⚙️<br><b>Backend</b></td>
+</tr>
+</table>
 
 <br>
 
@@ -101,61 +112,33 @@ and identifies unusual transactions.
 
 # 🛠️ MY DIGITAL TOOLBOX
 
-<p align="center">
-<i>Technologies I'm currently exploring and working with</i>
-</p>
-
-<br>
-
 ### 👩‍💻 Languages
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript" />
 
 </p>
-
-<br>
 
 ### 🧠 AI / Data
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
 
-<br>
+<br><br>
 
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 
 </p>
-
-<br>
 
 ### 🌐 Web & Tools
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,mysql,git,github,vscode" />
 
 </p>
 
@@ -163,8 +146,7 @@ and identifies unusual transactions.
 
 ---
 
-<!-- ==================== PROJECT LAB ==================== -->
-
+<!-- PROJECT LAB -->
 <h2 align="center">🚀 PROJECT LAB</h2>
 
 <p align="center">
@@ -173,9 +155,14 @@ and identifies unusual transactions.
 
 <br>
 
-<div align="center">
+<table align="center">
+<tr>
 
-<h3>💳 Personal Spending Anomaly Detector</h3>
+<td width="45%" align="center">
+
+<h2>💳</h2>
+
+<h3>Personal Spending<br>Anomaly Detector</h3>
 
 <p>
 An intelligent system that learns spending patterns
@@ -183,26 +170,18 @@ and detects unusual financial behaviour.
 </p>
 
 <p>
-
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/ML-FF6F00?style=flat-square"/>
 <img src="https://img.shields.io/badge/Anomaly%20Detection-6A5ACD?style=flat-square"/>
-
 </p>
 
-<p>
-🔨 <b>Currently Building</b>
-</p>
+</td>
 
-</div>
+<td width="45%" align="center">
 
-<br>
+<h2>🏆</h2>
 
-<div align="center">
-
----
-
-### 🏆 Hackathon Innovation Lab
+<h3>Hackathon<br>Innovation Lab</h3>
 
 <p>
 Exploring technology-driven solutions to
@@ -210,37 +189,25 @@ meaningful real-world problems.
 </p>
 
 <p>
-
 <img src="https://img.shields.io/badge/AI%2FML-8A2BE2?style=flat-square"/>
 <img src="https://img.shields.io/badge/Web-1572B6?style=flat-square"/>
 <img src="https://img.shields.io/badge/Innovation-FFB000?style=flat-square"/>
-
 </p>
 
-<p>
-💡 <b>Ideas → Prototypes</b>
-</p>
+</td>
 
-</div>
+</tr>
+</table>
 
 <br>
 
-<div align="center">
+<p align="center">
+  <b>🔨 Building today • 🚀 Improving tomorrow</b>
+</p>
 
-<b>🔨 Building today • 🚀 Improving tomorrow</b>
-
-<br><br>
-
-<i>More projects are currently in the lab... 🧪</i>
-
-</div>
-
-<br>
-
----
-
-<!-- ==================== WHAT I LIKE BUILDING ==================== -->
-
+<p align="center">
+  <i>More projects are currently in the lab...</i> 🧪
+</p> <!-- WHAT I LIKE BUILDING -->
 <h2 align="center">🧩 WHAT I LIKE BUILDING</h2>
 
 <p align="center">
@@ -249,33 +216,68 @@ meaningful real-world problems.
 
 <br>
 
-<div align="center">
+<table align="center">
+<tr>
 
-### 💡 IDEATE
+<td align="center" width="180">
+<h2>💡</h2>
+<h3>IDEATE</h3>
+<p>Find interesting<br>real-world problems.</p>
+</td>
 
-**Find interesting real-world problems**
+<td align="center">
+<h2>→</h2>
+</td>
 
-⬇️
+<td align="center" width="180">
+<h2>📊</h2>
+<h3>UNDERSTAND</h3>
+<p>Explore data,<br>patterns & possibilities.</p>
+</td>
 
-### 📊 UNDERSTAND
+<td align="center">
+<h2>→</h2>
+</td>
 
-**Explore data, patterns & possibilities**
+<td align="center" width="180">
+<h2>🧠</h2>
+<h3>BUILD</h3>
+<p>Apply AI/ML &<br>technology.</p>
+</td>
 
-⬇️
+<td align="center">
+<h2>→</h2>
+</td>
 
-### 🧠 BUILD
+<td align="center" width="180">
+<h2>🚀</h2>
+<h3>CREATE</h3>
+<p>Turn ideas into<br>working solutions.</p>
+</td>
 
-**Apply AI/ML & technology**
-
-⬇️
-
-### 🚀 CREATE
-
-**Turn ideas into working solutions**
-
-</div>
+</tr>
+</table>
 
 <br>
 
-<div align="center">
+<p align="center">
 
+`REAL-WORLD PROBLEM`
+&nbsp; → &nbsp;
+`DATA`
+&nbsp; → &nbsp;
+`AI / ML`
+&nbsp; → &nbsp;
+`WEB`
+&nbsp; → &nbsp;
+`IMPACT`
+
+</p>
+
+<br>
+
+<blockquote align="center">
+
+<b>“I don't just want to learn technology — I want to build with it.”</b>
+
+</blockquote>
